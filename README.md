@@ -1,9 +1,10 @@
-### Hi there! I'm Lev 👋
+🎮 Unity Developer | C# | Mobile, VR/AR, WebGL
+Unity Developer with 4+ years of commercial experience. Portfolio includes mobile games (Google Play, Yandex Games), educational VR simulations, and WebGL projects.
 
-C# + Unity developer from Russia 🐻 I'm passionate about studying and traveling 
+🔹 Focus areas:
+- Game development & optimization for Android/iOS/VR/WebGL
+- SDK integrations (ads, analytics, IAP)
+- Clean architecture (SOLID, Zenject, MVC/MVVM)
+- Multiplayer (Photon, Netcode)
 
-- 📚 I'm a 4th year student of Faculty of Infocommunication Technologies at ITMO University in Saint-Petersburg, Russia
-- 🌱 I’m currently working in HQSoftware as a VR developer
-- 💬 Ask me about C# or Unity, I am happy to help you
-- 📫 How to reach me: https://t.me/llogvinov
-- ⚡ Fun fact: I'm a big fan of playing on guitar and skating
+💡 Passionate about solving technical challenges, improving performance, and building user-friendly applications.
